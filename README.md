@@ -1,9 +1,13 @@
 🛒 Customer Shopping Behavior Analysis
+
 🌟 Project Overview
+
 This project dives deep into a transactional dataset of 3,900 purchases across various product categories. The goal was to uncover hidden spending patterns, identify distinct customer segments, and understand subscription behaviors to help drive smarter business strategies.
 +1
 
+
 🛠️ Tech Stack
+
 
 Python (Pandas): Used for heavy-duty data cleaning, handling missing values, and initial exploration. 🐍
 
@@ -15,6 +19,7 @@ PostgreSQL: Served as the backbone for structured data storage and complex busin
 Power BI: Used to build a sleek, interactive dashboard for visual storytelling. 📊
 
 📊 Dataset Insights
+
 The data consisted of 18 columns covering demographics, purchase details, and shopping behaviors.
 
 
@@ -33,6 +38,7 @@ Segmentation: I classified users into three groups: Loyal (3,116), Returning (70
 +1
 
 📈 Dashboard Highlights
+
 The Power BI dashboard reveals some fascinating high-level metrics:
 
 
@@ -50,6 +56,7 @@ Shipping Preference: Express shipping users spend slightly more on average ($60.
 
 💡 Business Recommendations
 
+
 Subscription Push: Launch a campaign to convert the 73% of non-subscribers by offering exclusive perks. 🚀
 +1
 
@@ -62,4 +69,4 @@ Smart Discounting: Keep an eye on products like Hats, which have a 50% discount 
 +1
 
 👤 Author
-Shruti Jindal
+Shruti
