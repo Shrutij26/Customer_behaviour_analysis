@@ -23,7 +23,7 @@ Power BI: Used to build a sleek, interactive dashboard for visual storytelling. 
 The data consisted of 18 columns covering demographics, purchase details, and shopping behaviors.
 
 
-Data Cleaning: I addressed 37 missing values in the Review Rating column by using the median rating of each category. 🧼1
+Data Cleaning: I addressed 37 missing values in the Review Rating column by using the median rating of each category. 🧼
 
 
 Feature Engineering: Created a new age_group column to better categorize shoppers and a purchase_frequency_days metric. 🛠️
@@ -68,4 +68,5 @@ Smart Discounting: Keep an eye on products like Hats, which have a 50% discount 
 
 
 👤 Author
+
 Shruti
